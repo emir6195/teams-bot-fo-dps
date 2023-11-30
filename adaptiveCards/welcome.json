@@ -1,0 +1,49 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Merhaba,"
+    },
+    {
+      "type": "TextBlock",
+      "text": "Ben Çözüm Merkezi botuyum. BT konuları ile ilgili sana yardımcı olabilirim.",
+      "wrap": true
+    },
+    {
+      "type": "TextBlock",
+      "text": "İşte yapabileceklerimden bazıları:",
+      "wrap": true
+    },
+    {
+      "type": "TextBlock",
+      "text": "- MFA (Authenticator) problemleri\r",
+      "wrap": true
+    },
+    {
+      "type": "TextBlock",
+      "text": "- Mail erişim problemleri",
+      "wrap": true
+    },
+    {
+      "type": "TextBlock",
+      "text": "- Uygulama erişim problemleri",
+      "wrap": true
+    },
+    {
+      "type": "TextBlock",
+      "text": "- Donanım problemleri vb.",
+      "wrap": true
+    },
+    {
+      "type": "TextBlock",
+      "text": "Peki sana hangi konuda destek olabilirim?",
+      "wrap": true
+    }
+  ],
+  "actions": [
+  
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.4"
+}
